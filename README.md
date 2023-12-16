@@ -1,5 +1,4 @@
 ![c1](https://github.com/MertAygunn/Quiz-Game/assets/102766786/d983828d-ca3e-410d-8949-9dffc1ceb83d)
-
 ![c2](https://github.com/MertAygunn/Quiz-Game/assets/102766786/0e08c43e-d3ea-446c-b8aa-e1ab4ffddd86)
 
 Multiple choice quiz example
